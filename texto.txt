@@ -7,8 +7,8 @@
     <br>
     <br>
     <p align="right"> <u> Curriculum vitae </u></p>
-    <p align="right"><b><i>Yoselin Castillo</b></i></p>
-    <p align="right"> <img src ="fotox.jpg" width="300" height="300" border = "2"></p>
+    <p align="right"><b><i>Mishel Mendoza</b></i></p>
+
 <br>
 <a name="pagwebrepa2.html"></a>
 <ul class="nav-menu">
@@ -36,11 +36,11 @@
     <hr size = "12" color = "red">
     <font size ="5" color"red" font-family:Arial>
     <p>Datos personales</p>
-    <p>Nombre: Yoselin
-    <p>Apellido: Castillo 
-    <p>Edad: 17 años
-    <p>tell:53143579
-    <p>Dirección:jardines del carmen 1
+    <p>Nombre: Mishel
+    <p>Apellido: Mendoza
+    <p>Edad: 16 años
+    <p>tell:4495-1310
+    <p>Dirección:12av.2-46 zonna 4 la arada
         <a href="nav-menu.html">Regreso</a>
     <br>   
 </body>
@@ -78,7 +78,7 @@
 </nav>
     </header>
     <p align="right"> <u> Curriculum vitae </u></p>
-    <p align="right"><b><i>Yoselin Castilo</b></i></p>
+    <p align="right"><b><i>Mishel Mendoza</b></i></p>
     <ul class="nav-menu"></ul>
     <p align="right"> <img src ="fotox.jpg" width="300" height="300" border = "2"></p>
     <main> 
